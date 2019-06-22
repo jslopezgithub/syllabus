@@ -148,7 +148,7 @@ var athlete = {
 };
 
 athlete.winNewMedal();
-console.log(athelete.goldMedals); // prints "26"
+console.log(athlete.goldMedals); // prints "26"
 ```
 
 As methods are just functions attached to objects, they can also take parameters.
